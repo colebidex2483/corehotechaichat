@@ -1,8 +1,5 @@
-# my SaaS AI Platform with Next.js 13
+# My SaaS AI Platform with Next.js 13
 
-
-
-This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
 
 Features:
 
@@ -25,15 +22,9 @@ Features:
 - How to reuse layouts
 - Folder structure in Next 13 App Router
 
-### Prerequisites
+<!-- ### Prerequisites
 
 **Node version 18.x.x**
-
-### Cloning the repository
-
-```shell
-git clone https://github.com/AntonioErdeljac/next13-ai-saas.git
-```
 
 ### Install packages
 
@@ -85,4 +76,4 @@ Running commands with npm `npm run [command]`
 
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
-| `dev`           | Starts a development instance of the app |
+| `dev`           | Starts a development instance of the app | -->
